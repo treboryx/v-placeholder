@@ -1,0 +1,32 @@
+{
+  "name": "v-placeholder",
+  "version": "0.0.1",
+  "description": "Placeholder image component for Vue",
+  "main": "dist/library.js",
+  "module": "dist/library.mjs",
+  "files": [
+    "dist/*"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "prepare": "npm run build",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treboryx/v-placeholder.git"
+  },
+  "author": "treboryx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treboryx/v-placeholder/issues"
+  },
+  "homepage": "https://github.com/treboryx/v-placeholder#readme",
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.31",
+    "release-it": "^14.12.4",
+    "rollup": "^2.67.2",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-vue": "^6.0.0"
+  }
+}
