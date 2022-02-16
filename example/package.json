@@ -7,6 +7,7 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
+    "v-placeholder": "^0.1.0",
     "vue": "^3.2.29"
   },
   "devDependencies": {
