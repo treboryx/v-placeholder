@@ -12,6 +12,14 @@
     "prepare": "npm run build",
     "release": "release-it"
   },
+  "keywords": [
+    "vue",
+    "placeholder",
+    "image component",
+    "image placeholder",
+    "image",
+    "img"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/treboryx/v-placeholder.git"
