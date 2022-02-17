@@ -20,14 +20,6 @@ import vPlaceholder from "v-placeholder";
 createApp(App).use(vPlaceholder).mount("#app");
 ```
 
-### ES6 (main.js)
-
-```js
-import vPlaceholder from "v-placeholder";
-
-createApp(App).use(vPlaceholder).mount("#app");
-```
-
 ### CommonJS
 
 ```js
@@ -41,7 +33,7 @@ Vue.use(vPlaceholder);
 
 ```js
 <v-placeholder
-  src="'https://i.imgur.com/BfZCBXY.jpeg'"
+  src="https://i.imgur.com/BfZCBXY.jpeg"
   placeholder="https://i.imgur.com/kYHhXXf.png"
 />
 ```
