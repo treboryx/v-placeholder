@@ -19,8 +19,8 @@ import Placeholder from "./components/v-placeholder.vue";
   <!-- <HelloWorld msg="You did it!" /> -->
   <!-- </div> -->
   <!-- </header> -->
-  <Placeholder
-    :src="'https://i.imgur.com/BfZCBXY.jpeg'"
+  <v-placeholder
+    src="https://i.imgur.com/BfZCBXY.jpeg"
     placeholder="https://i.imgur.com/kYHhXXf.png"
   />
 
