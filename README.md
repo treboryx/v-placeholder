@@ -1,5 +1,7 @@
 # v-placeholder
 
+[![NPM](https://nodei.co/npm/v-placeholder.png)](https://nodei.co/npm/v-placeholder/)
+
 v-placeholder is a very simple component that you can use if you want your images to have a placeholder image (of your choice) until the actual image is downloaded by the user.
 
 ## Installation
